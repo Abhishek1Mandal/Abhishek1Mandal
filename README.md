@@ -3,11 +3,11 @@
 - 📷 [Instagram](https://www.instagram.com/1abhishek_mandal/)
 
 ### Skills
-- 💻 HTML/CSS, React.js/tsx,  Python, JavaScript, TypeScript, MongoDB, MySQL, LangChain, Data Science, AI-ML. 
-- 🛠️ Git, Chatgpt.
+- 💻 HTML/CSS, React.js/tsx,  Python, JavaScript, TypeScript, MongoDB, LangChain, Data Science, AI-ML. 
+- 🛠️ Github, Chatgpt.
 
 ### Interests
-- 🎨 UI/UX Design
+- 🎨 UI/UX Development
 - 🌱 Learning new technologies
 
 
