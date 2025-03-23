@@ -8,10 +8,10 @@
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/abhishek-mandal-7676162b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![X](https://img.shields.io/twitter/follow/:Abhishekepic01)](https://x.com/Abhishekepic01?t=nsdlGJOXvv4RABlgTlP4Kg&s=09)
-[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://www.threads.net/@1abhishek_mandal)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/1abhishek_mandal/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/191tev5HY2/)
-[![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?logo=snapchat&logoColor=black&style=for-the-badge/follow/:Abhishek)]()
+[![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?logo=snapchat&logoColor=black&style=for-the-badge/follow/:Abhishek)](https://www.snapchat.com/add/aabhi.mandal?share_id=CbySwYTySDk&locale=en-IN)
 
 ---
 
