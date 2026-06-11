@@ -1,116 +1,93 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C6AF7&height=120&section=header&text=&fontSize=0" width="100%" />
+
 # Abhishek Mandal
 
-**👨‍💻 Electrical Engineer | Developer | AI Enthusiast**
+**Full-Stack Engineer · 4+ Years · AI & Cloud Enthusiast**
 
-Welcome to my GitHub profile! I’m passionate about building scalable, real-world software solutions in web, mobile, and AI. I'm an active learner and a proud member of multiple development communities.
-
----
-
-## 🌐 Connect with Me
+*Building production-grade systems across mobile, web, and backend — with a focus on clean architecture, maintainability, and performance.*
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/abhishek-mandal-7676162b7)
-[![Twitter](https://img.shields.io/twitter/follow/Abhishekepic01?style=social)](https://x.com/Abhishekepic01)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/1abhishek_mandal/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Abhishekepic01)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/1abhishek_mandal/)
 [![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://www.threads.net/@1abhishek_mandal)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/191tev5HY2/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/191tev5HY2/)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black)](https://www.snapchat.com/add/aabhi.mandal)
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- Animated collaboration badge -->
+<p align="center">
+  <a href="https://github.com/Abhishek1Mandal">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7C6AF7&center=true&vCenter=true&width=600&lines=%F0%9F%93%A1+Open+for+collaborations+%26+freelance+projects!;%F0%9F%92%AC+Let's+build+something+great+together!;%F0%9F%93%A9+Reach+out+on+LinkedIn+%2F+Email" alt="Available for Collaboration" />
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek1Mandal&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1Mandal&layout=compact&theme=dark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek1Mandal&theme=dark)
+<br/>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=Abhishek1Mandal&color=7C6AF7&style=flat-square&label=Profile+Views)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abhishek1Mandal&theme=darkhub&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🥇 GitHub Achievements
-
-View all achievements 👉 [github.com/Abhishek1Mandal?tab=achievements](https://github.com/Abhishek1Mandal?tab=achievements)
-
-Some highlights:
-
-- 🧠 **Developer Program Member**
-- 🔄 **Pull Shark** – Merged PRs
-- 🗂️ **Yolo** – Created a public repository
-- 💬 **Arctic Code Vault Contributor**
-- 🔥 **GitHub Star** (⭐ from others)
-- 🏗️ **Project Manager** – Used Projects feature
+</div>
 
 ---
 
-## 🏢 Professional Affiliations
+## 🙋‍♂️ About Me
 
-[![AMDV Technologies](https://img.shields.io/badge/AMDV%20Technologies%20Pvt.%20Ltd-Contributor-013165?style=flat&logo=github&logoColor=white&labelColor=0a66c2)](https://github.com/amdv-technologies-private-limited)  
-Contributing to enterprise software solutions, real-time applications, and system architecture.
-
-[![TechiesTechHere](https://img.shields.io/badge/TechiesTechHere-Collaborator-013165?style=flat&logo=github&logoColor=white&labelColor=0a66c2)](https://github.com/TechiesTechHere)  
-Active contributor in an open-source technology community focused on knowledge sharing and collaborative development.
-
----
-
-## 🛠️ Technical Expertise
-
-### Frontend Engineering
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://reactjs.org)
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](https://nextjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev)
-
-### Backend & API Development
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com)
-
-### Database Technologies
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](https://www.postgresql.org)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](https://redis.io)
-
-### Mobile Development
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](https://dart.dev)
-
-### DevOps & Cloud
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](https://aws.amazon.com)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
-
-### Development Tools
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://postman.com)
+- 💼 **4+ years** shipping full‑stack web, mobile, and backend solutions in production environments.
+- 🏢 Enterprise contributor at **[AMDV Technologies](https://github.com/amdv-technologies-private-limited)** — building real‑time, scalable systems.
+- 🤝 Open‑source collaborator and mentor at **[TechiesTechHere](https://github.com/TechiesTechHere)** — growing developer communities.
+- 🧠 Currently diving deep into **LLMs, LangChain, and autonomous agents**.
+- ☁️ Strong cloud foundation with **Azure, Docker, and CI/CD** pipelines.
+- 🏗️ I design systems, not just write code — clean architecture, maintainability, and performance first.
 
 ---
 
-## 📚 Current Focus
+## 🛠️ Core Stack
 
-- **AI & Machine Learning**: Exploring LLMs, LangChain, and autonomous agents
-- **Cloud Architecture**: Deepening expertise in AWS services and serverless computing
-- **System Design**: Building scalable, high-performance distributed systems
-- **UI/UX**: Enhancing design skills with Figma for better user experiences
-
----
-
-## 💼 Professional Interests
-
-- Building production-grade applications that solve real-world challenges
-- Architecting scalable backend systems and microservices
-- Exploring cutting-edge AI/ML technologies and their practical applications
-- Contributing to open-source projects and developer communities
-
-> 💡 _"Building robust solutions through clean code and thoughtful architecture."_
+| Category | Technologies |
+|----------|--------------|
+| 🎨 **Frontend** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)|
+| ⚙️ **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) |
+| 📱 **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
+| 🗄️ **Data & Infrastructure** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+| ☁️ **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
 
 ---
 
-🔗 **GitHub:** [github.com/Abhishek1Mandal](https://github.com/Abhishek1Mandal)
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishek1Mandal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+<img src="https://streak-stats.demolab.com/?user=Abhishek1Mandal&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1Mandal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="140" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Affiliations
+
+| Badge | Achievement |
+|-------|-------------|
+| 🧠 | **Developer Program Member** |
+| 🔄 | **Pull Shark** |
+| 💬 | **Arctic Code Vault Contributor** |
+| 🏗️ | **Project Manager** |
+| ⭐ | **GitHub Star** |
+
+**Organizations:**
+
+[![AMDV Technologies](https://img.shields.io/badge/AMDV_Technologies-181717?style=flat&logo=github&logoColor=white)](https://github.com/amdv-technologies-private-limited)
+[![TechiesTechHere](https://img.shields.io/badge/TechiesTechHere-181717?style=flat&logo=github&logoColor=white)](https://github.com/TechiesTechHere)
+
+---
+
+## 🚀 Currently Exploring
+
+```text
+LLMs         ████████████░░░░  Active
+LangChain    ██████████░░░░░░  Active
+Agents       ████████░░░░░░░░  Learning
