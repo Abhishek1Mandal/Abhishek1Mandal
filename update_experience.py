@@ -8,7 +8,7 @@ import re
 from datetime import date
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-START_DATE = date(2023, 7, 1)   # ← Set your career start date here (YYYY, M, D)
+START_DATE = date(2023, 3, 1)   # ← Set your career start date here (YYYY, M, D)
 README_PATH = "README.md"
 # ─────────────────────────────────────────────────────────────────────────────
 
