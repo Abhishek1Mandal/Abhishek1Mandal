@@ -4,13 +4,13 @@
 
 # Abhishek Mandal
 
-**Full-Stack Engineer · 4+ Years · AI & Cloud Enthusiast**
+**Full-Stack Engineer · <span id="experience-years">3+</span> Years · AI & Cloud Enthusiast**
 
 *Building production-grade systems across mobile, web, and backend — with a focus on clean architecture, maintainability, and performance.*
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/abhishek-mandal-7676162b7)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Abhishekepic01)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/1abhishek_mandal/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/abhishek-mandal-7350113a3)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/Abhishekepic01)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_abhishek_singh_mandal_?igsh=dHA0aDVpOGtqdm1q)
 [![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://www.threads.net/@1abhishek_mandal)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/191tev5HY2/)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black)](https://www.snapchat.com/add/aabhi.mandal)
@@ -34,7 +34,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 💼 **4+ years** shipping full‑stack web, mobile, and backend solutions in production environments.
+- 💼 **<span id="about-experience">3+</span> years** shipping full‑stack web, mobile, and backend solutions in production environments.
 - 🏢 Enterprise contributor at **[AMDV Technologies](https://github.com/amdv-technologies-private-limited)** — building real‑time, scalable systems.
 - 🤝 Open‑source collaborator and mentor at **[TechiesTechHere](https://github.com/TechiesTechHere)** — growing developer communities.
 - 🧠 Currently diving deep into **LLMs, LangChain, and autonomous agents**.
@@ -52,6 +52,7 @@
 | 📱 **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
 | 🗄️ **Data & Infrastructure** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
 | ☁️ **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
+| 🔧 **State & Versioning** | ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logo=zustand&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
 ---
 
@@ -62,26 +63,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Abhishek1Mandal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
 <img src="https://streak-stats.demolab.com/?user=Abhishek1Mandal&theme=tokyonight&hide_border=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1Mandal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek1Mandal&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" height="200" />
 
 </div>
-
----
-
-## 🏆 Achievements & Affiliations
-
-| Badge | Achievement |
-|-------|-------------|
-| 🧠 | **Developer Program Member** |
-| 🔄 | **Pull Shark** |
-| 💬 | **Arctic Code Vault Contributor** |
-| 🏗️ | **Project Manager** |
-| ⭐ | **GitHub Star** |
-
-**Organizations:**
-
-[![AMDV Technologies](https://img.shields.io/badge/AMDV_Technologies-181717?style=flat&logo=github&logoColor=white)](https://github.com/amdv-technologies-private-limited)
-[![TechiesTechHere](https://img.shields.io/badge/TechiesTechHere-181717?style=flat&logo=github&logoColor=white)](https://github.com/TechiesTechHere)
 
 ---
 

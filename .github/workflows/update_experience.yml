@@ -1,0 +1,41 @@
+name: Update Experience Years
+
+on:
+  # Runs at 00:00 UTC on the 1st of every month
+  schedule:
+    - cron: "0 0 1 * *"
+
+  # Also allows manual trigger from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to push the README change
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run experience updater
+        run: python update_experience.py
+
+      - name: Commit & push if README changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Only commit when the file actually changed
+          if git diff --quiet README.md; then
+            echo "No changes to commit."
+          else
+            git add README.md
+            git commit -m "chore: auto-update experience years [skip ci]"
+            git push
+          fi
