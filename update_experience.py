@@ -1,64 +1,51 @@
 #!/usr/bin/env python3
 """
-Auto-updates experience years in README.md.
-Runs via GitHub Actions on the 1st of every month at midnight.
+Auto-updates experience duration in README.md.
+Designed to run via GitHub Actions on the 1st of every month.
 """
 
 import re
 from datetime import date
 
-# ── CONFIG ────────────────────────────────────────────────────────────────────
-START_DATE = date(2023, 3, 1)   # ← Set your career start date here (YYYY, M, D)
+# Set this to the first day of your actual professional employment.
+START_DATE = date(2023, 12, 1)
 README_PATH = "README.md"
-# ─────────────────────────────────────────────────────────────────────────────
 
 
 def calc_experience(start: date, today: date) -> str:
-    """
-    Returns a precise monthly label like '3.6', '3.7', '4.0', etc.
-    Format: whole_years.months_remainder — updates every month.
-    e.g. 3 years 7 months → 3.7 | 4 years 0 months → 4.0
-    """
-    total_months = (today.year - start.year) * 12 + (today.month - start.month)
-    whole_years = total_months // 12
-    remaining_months = total_months % 12
-    return f"{whole_years}.{remaining_months}"
+    """Return a clear duration such as '2 years 10 months'."""
+    total_months = max(0, (today.year - start.year) * 12 + today.month - start.month)
+    years, months = divmod(total_months, 12)
+    year_label = "year" if years == 1 else "years"
+    month_label = "month" if months == 1 else "months"
+    return f"{years} {year_label} {months} {month_label}"
 
 
 def update_readme(path: str, label: str) -> bool:
-    with open(path, "r", encoding="utf-8") as f:
-        content = f.read()
+    with open(path, "r", encoding="utf-8") as file:
+        content = file.read()
 
-    # Targets both span ids used in the README
     patterns = [
-        # <span id="experience-years">3.5</span>
-        (r'(<span id="experience-years">)[\d.]+?(</span>)', rf'\g<1>{label}\2'),
-        # <span id="about-experience">3.5</span>
-        (r'(<span id="about-experience">)[\d.]+?(</span>)', rf'\g<1>{label}\2'),
-        # Plain text fallbacks: "3.5 years" / "4.0 Years"
-        (r'\b[\d.]+\s+([Yy]ears?\b)', rf'{label} \1'),
+        (r'(<span id="experience-years">)[^<]*(</span>)', rf"\g<1>{label}\2"),
+        (r'(<span id="about-experience">)[^<]*(</span>)', rf"\g<1>{label}\2"),
     ]
 
     updated = content
-    changed = False
     for pattern, replacement in patterns:
-        new = re.sub(pattern, replacement, updated)
-        if new != updated:
-            changed = True
-        updated = new
+        updated = re.sub(pattern, replacement, updated)
 
-    if changed:
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(updated)
-        print(f"✅ README updated → experience set to '{label}'")
-    else:
-        print(f"ℹ️  No changes needed (already '{label}' or pattern not found)")
+    if updated != content:
+        with open(path, "w", encoding="utf-8") as file:
+            file.write(updated)
+        print(f"README updated: experience set to '{label}'")
+        return True
 
-    return changed
+    print(f"No changes needed (experience already '{label}' or spans not found)")
+    return False
 
 
 if __name__ == "__main__":
     today = date.today()
     label = calc_experience(START_DATE, today)
-    print(f"📅 Today: {today}  |  Start: {START_DATE}  |  Label: {label}")
+    print(f"Today: {today} | Start: {START_DATE} | Experience: {label}")
     update_readme(README_PATH, label)

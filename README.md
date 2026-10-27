@@ -4,9 +4,9 @@
 
 # Abhishek Mandal
 
-**Full-Stack Engineer · <span id="experience-years">3.7</span> Years · AI & Cloud Enthusiast**
+**Full-Stack Engineer · <span id="experience-years">2 years 10 months</span> · AI & Cloud Enthusiast**
 
-*Building production-grade systems across mobile, web, and backend — with a focus on clean architecture, maintainability, and performance.*
+_Building production-grade systems across mobile, web, and backend — with a focus on clean architecture, maintainability, and performance._
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/abhishek-mandal-7350113a3)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/Abhishekepic01)
@@ -14,6 +14,8 @@
 [![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://www.threads.net/@1abhishek_mandal)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/191tev5HY2/)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=black)](https://www.snapchat.com/add/aabhi.mandal)
+
+[![Download Resume](https://img.shields.io/badge/Download-Resume-2EA44F?style=flat&logo=adobeacrobatreader&logoColor=white)](./Abhishek_Mandal_Resume.pdf)
 
 <br/>
 
@@ -34,7 +36,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 💼 **<span id="about-experience">3.7</span> years** shipping full‑stack web, mobile, and backend solutions in production environments.
+- 💼 **<span id="about-experience">2 years 10 months</span> of experience** shipping full‑stack web, mobile, and backend solutions in production environments.
 - 🏢 Enterprise contributor at **[AMDV Technologies](https://github.com/amdv-technologies-private-limited)** — building real‑time, scalable systems.
 - 🤝 Open‑source collaborator and mentor at **[TechiesTechHere](https://github.com/TechiesTechHere)** — growing developer communities.
 - 🧠 Currently diving deep into **LLMs, LangChain, and autonomous agents**.
@@ -45,14 +47,18 @@
 
 ## 🛠️ Core Stack
 
-| Category | Technologies |
-|----------|--------------|
-| 🎨 **Frontend** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)|
-| ⚙️ **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) |
-| 📱 **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
-| 🗄️ **Data & Infrastructure** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
-| ☁️ **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
-| 🔧 **State & Versioning** | ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logo=zustand&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| Category                                         | Technologies                                                                                                                                                                   |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 💻 **Programming Languages**                     | JavaScript · TypeScript · Python · Dart / Flutter                                                                                                                              |
+| 🎨 **Frontend Development**                      | React.js · Vite · Tailwind CSS · Responsive Web Design · Component-Based UI Development                                                                                        |
+| ⚙️ **Backend & APIs**                            | Node.js · Express.js · Python FastAPI · RESTful API Development · API Integration                                                                                              |
+| 📱 **Mobile Development**                        | Flutter · Mobile-to-Backend Integration                                                                                                                                        |
+| 🗄️ **Databases & Data Management**               | MySQL · MongoDB · Data Modeling · Database Querying · Database-Driven Workflows                                                                                                |
+| 🔐 **Architecture & Security**                   | Multi-Tenant SaaS Architecture · RBAC · ABAC · JWT Authentication · OTP-Based Authentication · API Authorization                                                               |
+| 🔗 **Third-Party Integrations**                  | 2Factor OTP · Firebase Cloud Messaging (FCM)                                                                                                                                   |
+| ☁️ **Cloud, DevOps & Testing**                   | Application Deployment · Production Releases · Debugging · Troubleshooting · CI/CD · Docker · Microsoft Azure Concepts · Unit & Integration Testing _(familiarity / learning)_ |
+| 🧰 **Tools & State Management**                  | Tauri · Zustand · Git · GitHub                                                                                                                                                 |
+| 📚 **Java & Enterprise Technologies — Learning** | Java Fundamentals · Object-Oriented Programming (OOP) · J2EE · Spring Framework · Spring Boot · Spring MVC · JPA / Hibernate                                                   |
 
 ---
 
@@ -75,3 +81,4 @@
 LLMs         ████████████░░░░  Active
 LangChain    ██████████░░░░░░  Active
 Agents       ████████░░░░░░░░  Learning
+```
