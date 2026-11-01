@@ -4,7 +4,7 @@
 
 # Abhishek Mandal
 
-**Full-Stack Engineer · <span id="experience-years">2 years 10 months</span> · AI & Cloud Enthusiast**
+**Full-Stack Engineer · <span id="experience-years">2 years 11 months</span> · AI & Cloud Enthusiast**
 
 _Building production-grade systems across mobile, web, and backend — with a focus on clean architecture, maintainability, and performance._
 
@@ -36,7 +36,7 @@ _Building production-grade systems across mobile, web, and backend — with a fo
 
 ## 🙋‍♂️ About Me
 
-- 💼 **<span id="about-experience">2 years 10 months</span> of experience** shipping full‑stack web, mobile, and backend solutions in production environments.
+- 💼 **<span id="about-experience">2 years 11 months</span> of experience** shipping full‑stack web, mobile, and backend solutions in production environments.
 - 🏢 Enterprise contributor at **[AMDV Technologies](https://github.com/amdv-technologies-private-limited)** — building real‑time, scalable systems.
 - 🤝 Open‑source collaborator and mentor at **[TechiesTechHere](https://github.com/TechiesTechHere)** — growing developer communities.
 - 🧠 Currently diving deep into **LLMs, LangChain, and autonomous agents**.
